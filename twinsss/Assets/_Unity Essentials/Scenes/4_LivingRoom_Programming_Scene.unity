@@ -613,6 +613,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ChairDiningB
       objectReference: {fileID: 0}
+    - target: {fileID: 585256984652724077, guid: 625a16b402cfd487494f48992994e27e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.54
+      objectReference: {fileID: 0}
     - target: {fileID: 1311068503406827131, guid: 625a16b402cfd487494f48992994e27e,
         type: 3}
       propertyPath: m_Enabled
@@ -646,7 +651,7 @@ PrefabInstance:
     - target: {fileID: 3318279074037847244, guid: 625a16b402cfd487494f48992994e27e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.59
       objectReference: {fileID: 0}
     - target: {fileID: 3318279074037847244, guid: 625a16b402cfd487494f48992994e27e,
         type: 3}
