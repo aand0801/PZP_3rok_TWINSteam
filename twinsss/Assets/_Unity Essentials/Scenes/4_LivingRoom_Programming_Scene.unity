@@ -613,6 +613,36 @@ PrefabInstance:
       propertyPath: m_Name
       value: ChairDiningB
       objectReference: {fileID: 0}
+    - target: {fileID: 585256984652724077, guid: 625a16b402cfd487494f48992994e27e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.311
+      objectReference: {fileID: 0}
+    - target: {fileID: 585256984652724077, guid: 625a16b402cfd487494f48992994e27e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0000000018626451
+      objectReference: {fileID: 0}
+    - target: {fileID: 585256984652724077, guid: 625a16b402cfd487494f48992994e27e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.821
+      objectReference: {fileID: 0}
+    - target: {fileID: 585256984652724077, guid: 625a16b402cfd487494f48992994e27e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70279694
+      objectReference: {fileID: 0}
+    - target: {fileID: 585256984652724077, guid: 625a16b402cfd487494f48992994e27e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7113905
+      objectReference: {fileID: 0}
+    - target: {fileID: 585256984652724077, guid: 625a16b402cfd487494f48992994e27e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90.696
+      objectReference: {fileID: 0}
     - target: {fileID: 1311068503406827131, guid: 625a16b402cfd487494f48992994e27e,
         type: 3}
       propertyPath: m_Enabled
